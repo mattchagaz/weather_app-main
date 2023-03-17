@@ -177,6 +177,7 @@ body {
 @media (max-width: 740px) {
   .container {
     width: 50%;
+    backdrop-filter: blur(20px);
   }
 
   .form h3 {
