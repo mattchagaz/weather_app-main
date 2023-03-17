@@ -179,6 +179,7 @@ body {
   .container {
     width: 50%;
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
   }
 
   .form h3 {
